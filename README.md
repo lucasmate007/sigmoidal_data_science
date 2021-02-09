@@ -18,7 +18,7 @@ Meu nome é Lucas Matheus de Carvalho Gomes, sou formado em Engenharia da Comput
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Analisando os Dados do Airbnb:** https://bit.ly/2L2cMwy
+* **Analisando os Dados do Airbnb de Barcelona:** https://bit.ly/2YVf6Mh
 
 ---
 
